@@ -1,5 +1,5 @@
 # Vislice2
 
-Janez Janša
-Viktor Orban
-Aleksandar Vučić
++Janez Janša
++Viktor Orban
++Aleksandar Vučić
